@@ -1,0 +1,13 @@
+node_modules/
+**/node_modules/
+.env
+.env.*
+!.env.example
+target/
+build/
+dist/
+.DS_Store
+*.log
+.idea/
+.vscode/
+/backend/src/main/resources/static/pdfs/श्री_बितक_साहेबसरकारश्री_टीका.pdf
